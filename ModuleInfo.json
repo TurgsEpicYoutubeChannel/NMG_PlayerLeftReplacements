@@ -1,7 +1,7 @@
 {
-  "Name": "Neo Mario Galaxy Life-Up Shroom",
+  "Name": "Neo Mario Galaxy PlayerLeftReplacements",
   "Author": "Aurum",
-  "Description": "Misc: Minor Patches",
+  "Description": "PlayerLeftReplacements ported from Neo Mario Galaxy",
   "InstallDependencies": ["Syati_Init", "PTUtils"],
   "SupportedGames": [
     "SB4E",
